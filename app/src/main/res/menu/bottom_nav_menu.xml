@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/settingsicon"
+        android:title="Settings"
+        android:icon="@drawable/ic_baseline_settings_24"/>
+    <item
+        android:id="@+id/basketicon"
+        android:title="Basket"
+        android:icon="@drawable/ic_baseline_shopping_basket_24"/>
+    <item
+        android:id="@+id/totalicon"
+        android:title="Total"
+        android:icon="@drawable/ic_baseline_attach_money_24"/>
+
+    <item
+        android:id="@+id/paymenticon"
+        android:title="Payment"
+        android:icon="@drawable/ic_baseline_payment_24"/>
+</menu>
